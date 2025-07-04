@@ -1,6 +1,6 @@
 # Glider-Clients
 
-**v2.0.1**
+**v2.0.2**
 
 This is an open source self-hosted project useful to manage the creation and the storage of
 your passwords with the Glider system.
@@ -23,14 +23,14 @@ If you are trying to connect to a backend with self-signed certificates, you nee
 ### Clients
 
 - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.glider)
-- [Glider desktop version](https://github.com/N7ghtm4r3/Glider-Clients/releases/tag/2.0.1)
+- [Glider desktop version](https://github.com/N7ghtm4r3/Glider-Clients/releases/tag/2.0.2)
 - iOS -> source code available, but cannot distribute due
   missing [Apple Developer Program license](https://developer.apple.com/programs/)
 - [Glider webapp version](https://github.com/N7ghtm4r3/Glider-WebApp)
 
 ### Backend
 
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Glider/releases/tag/2.0.1)
+- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Glider/releases/tag/2.0.2)
 
 ## Usages
 
@@ -65,7 +65,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.tecknobit.glidercore:glidercore:2.0.1'
+  implementation 'com.tecknobit.glidercore:glidercore:2.0.2'
 }
 ```
 
@@ -78,7 +78,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.tecknobit.glidercore:glidercore:2.0.1")
+  implementation("com.tecknobit.glidercore:glidercore:2.0.2")
 }
 ```
 
